@@ -1,3 +1,2 @@
-print("hello world")
-
-print("Vansh sharmaa")
+def add(a, b):
+    return a + b
