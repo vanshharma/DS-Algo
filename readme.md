@@ -7,3 +7,4 @@ there are libraries in python like pandas,
 matlpotlib numpy etc.
 and we'll do it in the process of learning Data science.
 Also I am learning GenAI so it is required there.
+in my project i implemented Rag based feature and etc.
