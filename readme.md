@@ -10,3 +10,4 @@ Also I am learning GenAI so it is required there.
 in my project i implemented Rag based feature and etc.
  Gen ai is a evolving filed which shows use of rag.
  i will be placed at Zscaler.
+ business support analyst
